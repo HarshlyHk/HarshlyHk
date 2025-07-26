@@ -16,22 +16,22 @@
 ## 🧠 Skills Demonstrated
 
 ### 🧑‍💻 Programming Languages  
-![TypeScript](https://img.shields.io/badge/TypeScript-5.4.2-3178C6?logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript)
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python)
 ![C++](https://img.shields.io/badge/C++-17-00599C?logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-Structured%20Query-4479A1?logo=mysql)
 ![HTML5](https://img.shields.io/badge/HTML5-Orange-E34F26?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-Blue-1572B6?logo=css3)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.4.2-3178C6?logo=typescript)
 ![Java](https://img.shields.io/badge/Java-Basics-007396?logo=java)
 
 ---
 
 ### ⚛️ Frameworks & Libraries  
-![Next.js](https://img.shields.io/badge/Next.js-14-000000?logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-19.1.0-61DAFB?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-20.11.1-339933?logo=nodedotjs)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.1-38B2AC?logo=tailwindcss)
+![Next.js](https://img.shields.io/badge/Next.js-14-000000?logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-20.11.1-339933?logo=nodedotjs)
 
 ---
 
