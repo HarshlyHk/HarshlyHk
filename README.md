@@ -49,7 +49,7 @@
 
 ### 📚 Concepts & Knowledge  
 - ✅ Full-Stack Web Development  
-- ✅ Frontend Engineering with TypeScript + Tailwind + React  
+- ✅ Frontend Devlopment with TypeScript + Tailwind + React  
 - ✅ REST API Integration & Design  
 - ✅ Object-Oriented Programming (OOP)  
 - ✅ Data Structures & Algorithms (DSA)  
